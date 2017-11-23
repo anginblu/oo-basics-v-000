@@ -6,5 +6,6 @@ class Book
   def title
     @title
   end
+  def title(=)
 
 end
